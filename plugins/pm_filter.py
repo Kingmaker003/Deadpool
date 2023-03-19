@@ -106,7 +106,7 @@ async def next_page(bot, query):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/Sharath_Links/13')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/moviedownloadlinkzzz/3')
         ]
     )
     btn.insert(1, 
@@ -441,7 +441,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "start":
         buttons = [[
             InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇs 🤖', url='https://t.me/tamilblasterslinkz'),
-            InlineKeyboardButton('💥 ɪɴꜱᴛᴀ ♥️', url='https://t.me/+qswNBTRWlv9lNjQ1')
+            InlineKeyboardButton('💥 ɪɴꜱᴛᴀ ♥️', url='https://instagram.com/madara._efx?igshid=YmMyMTA2M2Y=')
             ],[
             InlineKeyboardButton('💞 sᴜᴘᴘᴏʀᴛ 💞', url='https://t.me/rcmovierequest'),
             InlineKeyboardButton('👩‍💻 ʀᴇᴘᴏ ✨', url='https://github.com/PR0FESS0R-03/Deadpoll'),
@@ -712,7 +712,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/Sharath_Links/13')
+            InlineKeyboardButton('🔋 Hᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🔋', url='https://t.me/moviedownloadlinkzzz/3')
         ]
     )
     if offset != "":
